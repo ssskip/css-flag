@@ -1,3 +1,6 @@
+$css-flag-path:        "/images" !default;
+
+
 i.flag:not(.icon) {
   display: inline-block;
   width: 16px;
@@ -15,9 +18,9 @@ i.flag:not(.icon) {
 i.flag:not(.icon):before {
   display: inline-block;
   content: '';
-  background: url(flags.png) no-repeat;
+  background: url(#{$css-flag-path}/flags.png}) no-repeat;
   width: 16px;
-  height: 11px;
+  height: 11px
 }
 
 i.flag.ad:before,i.flag.AD:before,i.flag.andorra:before {
