@@ -1,4 +1,4 @@
-#CSS-FLAG
+#CSS-FLAG  [![Build Status](https://travis-ci.org/ssskip/css-flag.svg)](https://travis-ci.org/ssskip/css-flag)
 
 A flag is used to represent a political state
 
