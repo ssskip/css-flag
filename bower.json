@@ -1,0 +1,21 @@
+{
+  "name": "css-flag",
+  "version": "0.1",
+  "authors": [
+    "ssskip <reducecode@gmail.com>"
+  ],
+  "description": "A flag is used to represent a political state",
+  "main": "flag.css flags.png",
+  "keywords": [
+    "flag"
+  ],
+  "license": "MIT",
+  "homepage": "http://ssskip.github.io/css-flag",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
