@@ -1,0 +1,13 @@
+{
+  "name": "css-flags",
+  "version": "0.0.1",
+  "description": "A flag is used to represent a political state",
+  "author": "ssskip <reducecode@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-util": "~2.2.14",
+    "gulp-minify-css": "*",
+    "gulp-rename": "~1.2.0"
+  }
+}
