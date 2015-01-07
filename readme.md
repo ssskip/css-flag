@@ -4,6 +4,10 @@ A flag is used to represent a political state
 
 Separate from [semantic-ui](https://github.com/Semantic-Org/Semantic-UI)
 
+Install via bower:
+
+> bower install css-flag
+
 ### Sample(us flag):
 
 * 	`<i class="US flag"></i>`
